@@ -15,7 +15,7 @@
 # Getting Started
 
 
-This repo is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. 
+[This repo](https://github.com/10acad/git-get-started.git) is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. 
 
 ## Setting up softwares
 
