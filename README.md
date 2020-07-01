@@ -13,7 +13,7 @@
 - [FAQ](#faq)
 
 # Getting Started
-Repo link that is used.
+Memory Apiyo
 
 [This repo](https://github.com/10acad/git-get-started.git) is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. 
 
